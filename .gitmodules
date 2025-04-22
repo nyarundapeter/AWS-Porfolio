@@ -1,0 +1,3 @@
+[submodule "profilesapp"]
+	path = profilesapp
+	url = https://github.com/nyarundapeter/profilesapp.git
