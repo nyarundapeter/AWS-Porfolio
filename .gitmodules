@@ -1,3 +1,6 @@
 [submodule "profilesapp"]
 	path = profilesapp
 	url = https://github.com/nyarundapeter/profilesapp.git
+[submodule "ai-recipe-generator"]
+	path = ai-recipe-generator
+	url = https://github.com/nyarundapeter/ai-recipe-generator.git
